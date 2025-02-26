@@ -1,0 +1,1001 @@
+CV,Keyword,Keyword Frequency,Sentiment Score
+CV 1,Leadership,10,0.68
+CV 1,Innovation,4,0.47
+CV 1,Teamwork,4,0.74
+CV 1,Communication,3,0.69
+CV 1,Problem Solving,8,0.83
+CV 2,Leadership,5,0.69
+CV 2,Innovation,2,0.8
+CV 2,Teamwork,6,0.92
+CV 2,Communication,7,0.47
+CV 2,Problem Solving,7,0.86
+CV 3,Leadership,2,0.61
+CV 3,Innovation,7,0.43
+CV 3,Teamwork,7,0.86
+CV 3,Communication,4,0.78
+CV 3,Problem Solving,7,0.6
+CV 4,Leadership,2,0.41
+CV 4,Innovation,7,0.59
+CV 4,Teamwork,2,0.68
+CV 4,Communication,1,0.48
+CV 4,Problem Solving,7,0.53
+CV 5,Leadership,3,0.85
+CV 5,Innovation,9,0.63
+CV 5,Teamwork,4,0.75
+CV 5,Communication,2,0.74
+CV 5,Problem Solving,7,0.68
+CV 6,Leadership,10,0.93
+CV 6,Innovation,1,0.55
+CV 6,Teamwork,1,0.5
+CV 6,Communication,4,0.96
+CV 6,Problem Solving,2,0.52
+CV 7,Leadership,5,0.98
+CV 7,Innovation,7,0.84
+CV 7,Teamwork,3,0.48
+CV 7,Communication,4,0.79
+CV 7,Problem Solving,1,0.65
+CV 8,Leadership,9,0.87
+CV 8,Innovation,10,0.69
+CV 8,Teamwork,7,0.45
+CV 8,Communication,5,0.65
+CV 8,Problem Solving,3,0.55
+CV 9,Leadership,9,0.98
+CV 9,Innovation,9,0.69
+CV 9,Teamwork,9,0.78
+CV 9,Communication,10,0.42
+CV 9,Problem Solving,6,0.77
+CV 10,Leadership,6,0.84
+CV 10,Innovation,4,0.92
+CV 10,Teamwork,1,0.78
+CV 10,Communication,4,0.75
+CV 10,Problem Solving,4,0.42
+CV 11,Leadership,6,0.75
+CV 11,Innovation,4,0.89
+CV 11,Teamwork,2,0.52
+CV 11,Communication,10,0.68
+CV 11,Problem Solving,8,0.67
+CV 12,Leadership,6,0.47
+CV 12,Innovation,8,0.53
+CV 12,Teamwork,9,0.84
+CV 12,Communication,2,0.93
+CV 12,Problem Solving,9,0.74
+CV 13,Leadership,1,0.7
+CV 13,Innovation,2,0.76
+CV 13,Teamwork,4,0.57
+CV 13,Communication,6,0.6
+CV 13,Problem Solving,10,0.7
+CV 14,Leadership,3,0.86
+CV 14,Innovation,10,0.68
+CV 14,Teamwork,8,1.0
+CV 14,Communication,5,0.67
+CV 14,Problem Solving,2,0.78
+CV 15,Leadership,6,0.49
+CV 15,Innovation,2,0.65
+CV 15,Teamwork,4,0.96
+CV 15,Communication,2,0.43
+CV 15,Problem Solving,3,0.51
+CV 16,Leadership,8,0.96
+CV 16,Innovation,9,0.41
+CV 16,Teamwork,6,0.7
+CV 16,Communication,10,0.79
+CV 16,Problem Solving,7,0.82
+CV 17,Leadership,7,0.92
+CV 17,Innovation,6,0.69
+CV 17,Teamwork,9,0.6
+CV 17,Communication,5,0.75
+CV 17,Problem Solving,2,0.46
+CV 18,Leadership,4,0.87
+CV 18,Innovation,10,0.7
+CV 18,Teamwork,8,0.4
+CV 18,Communication,4,0.56
+CV 18,Problem Solving,8,0.58
+CV 19,Leadership,6,0.51
+CV 19,Innovation,5,0.42
+CV 19,Teamwork,7,0.89
+CV 19,Communication,1,0.82
+CV 19,Problem Solving,1,0.89
+CV 20,Leadership,5,0.78
+CV 20,Innovation,9,0.93
+CV 20,Teamwork,6,0.73
+CV 20,Communication,9,0.84
+CV 20,Problem Solving,6,0.47
+CV 21,Leadership,4,0.99
+CV 21,Innovation,2,0.49
+CV 21,Teamwork,1,0.81
+CV 21,Communication,4,0.62
+CV 21,Problem Solving,5,0.49
+CV 22,Leadership,6,0.75
+CV 22,Innovation,9,0.45
+CV 22,Teamwork,1,0.62
+CV 22,Communication,1,0.53
+CV 22,Problem Solving,3,0.99
+CV 23,Leadership,5,0.74
+CV 23,Innovation,5,0.87
+CV 23,Teamwork,4,0.59
+CV 23,Communication,3,0.87
+CV 23,Problem Solving,4,0.5
+CV 24,Leadership,4,0.56
+CV 24,Innovation,7,0.82
+CV 24,Teamwork,2,0.97
+CV 24,Communication,5,0.89
+CV 24,Problem Solving,10,0.59
+CV 25,Leadership,10,0.93
+CV 25,Innovation,8,0.69
+CV 25,Teamwork,2,0.52
+CV 25,Communication,9,0.83
+CV 25,Problem Solving,7,0.82
+CV 26,Leadership,9,0.47
+CV 26,Innovation,4,0.64
+CV 26,Teamwork,7,0.48
+CV 26,Communication,7,0.63
+CV 26,Problem Solving,2,0.88
+CV 27,Leadership,4,0.95
+CV 27,Innovation,7,0.94
+CV 27,Teamwork,10,0.95
+CV 27,Communication,9,0.69
+CV 27,Problem Solving,5,0.58
+CV 28,Leadership,8,0.51
+CV 28,Innovation,2,0.68
+CV 28,Teamwork,10,0.64
+CV 28,Communication,9,0.45
+CV 28,Problem Solving,10,0.63
+CV 29,Leadership,6,0.91
+CV 29,Innovation,8,0.52
+CV 29,Teamwork,8,0.53
+CV 29,Communication,7,0.46
+CV 29,Problem Solving,4,0.68
+CV 30,Leadership,2,0.51
+CV 30,Innovation,4,0.64
+CV 30,Teamwork,4,0.82
+CV 30,Communication,3,0.8
+CV 30,Problem Solving,7,0.45
+CV 31,Leadership,9,0.4
+CV 31,Innovation,5,0.64
+CV 31,Teamwork,6,0.74
+CV 31,Communication,4,0.51
+CV 31,Problem Solving,5,0.93
+CV 32,Leadership,2,0.96
+CV 32,Innovation,4,0.62
+CV 32,Teamwork,1,0.4
+CV 32,Communication,7,0.6
+CV 32,Problem Solving,1,0.9
+CV 33,Leadership,6,0.47
+CV 33,Innovation,8,0.55
+CV 33,Teamwork,3,0.81
+CV 33,Communication,4,0.52
+CV 33,Problem Solving,10,0.98
+CV 34,Leadership,4,0.48
+CV 34,Innovation,7,0.53
+CV 34,Teamwork,3,0.63
+CV 34,Communication,5,0.87
+CV 34,Problem Solving,5,0.5
+CV 35,Leadership,9,0.54
+CV 35,Innovation,4,0.75
+CV 35,Teamwork,3,0.93
+CV 35,Communication,5,0.98
+CV 35,Problem Solving,8,0.91
+CV 36,Leadership,3,0.75
+CV 36,Innovation,5,0.59
+CV 36,Teamwork,3,0.64
+CV 36,Communication,4,0.63
+CV 36,Problem Solving,4,0.96
+CV 37,Leadership,5,0.62
+CV 37,Innovation,1,0.68
+CV 37,Teamwork,5,0.7
+CV 37,Communication,5,0.88
+CV 37,Problem Solving,8,0.72
+CV 38,Leadership,1,0.71
+CV 38,Innovation,2,0.7
+CV 38,Teamwork,7,0.55
+CV 38,Communication,5,0.73
+CV 38,Problem Solving,8,0.41
+CV 39,Leadership,5,0.48
+CV 39,Innovation,1,0.65
+CV 39,Teamwork,6,0.81
+CV 39,Communication,3,0.99
+CV 39,Problem Solving,8,0.57
+CV 40,Leadership,8,0.4
+CV 40,Innovation,3,0.41
+CV 40,Teamwork,6,0.85
+CV 40,Communication,3,0.53
+CV 40,Problem Solving,6,0.71
+CV 41,Leadership,6,0.99
+CV 41,Innovation,10,0.91
+CV 41,Teamwork,7,0.58
+CV 41,Communication,4,0.42
+CV 41,Problem Solving,4,0.46
+CV 42,Leadership,3,0.7
+CV 42,Innovation,4,0.75
+CV 42,Teamwork,3,0.95
+CV 42,Communication,10,0.56
+CV 42,Problem Solving,3,0.82
+CV 43,Leadership,2,0.65
+CV 43,Innovation,1,0.67
+CV 43,Teamwork,7,0.99
+CV 43,Communication,3,0.54
+CV 43,Problem Solving,7,0.54
+CV 44,Leadership,5,0.66
+CV 44,Innovation,7,0.98
+CV 44,Teamwork,4,0.53
+CV 44,Communication,7,0.79
+CV 44,Problem Solving,1,0.69
+CV 45,Leadership,2,0.69
+CV 45,Innovation,4,0.91
+CV 45,Teamwork,3,0.55
+CV 45,Communication,1,0.46
+CV 45,Problem Solving,9,0.48
+CV 46,Leadership,6,0.48
+CV 46,Innovation,6,0.68
+CV 46,Teamwork,3,0.82
+CV 46,Communication,5,0.83
+CV 46,Problem Solving,1,0.42
+CV 47,Leadership,7,0.75
+CV 47,Innovation,8,0.76
+CV 47,Teamwork,8,0.84
+CV 47,Communication,10,0.72
+CV 47,Problem Solving,1,0.77
+CV 48,Leadership,3,0.94
+CV 48,Innovation,6,0.83
+CV 48,Teamwork,1,0.71
+CV 48,Communication,3,0.69
+CV 48,Problem Solving,9,0.95
+CV 49,Leadership,8,0.84
+CV 49,Innovation,7,0.68
+CV 49,Teamwork,8,0.71
+CV 49,Communication,9,0.92
+CV 49,Problem Solving,1,0.76
+CV 50,Leadership,8,0.8
+CV 50,Innovation,1,0.69
+CV 50,Teamwork,5,0.63
+CV 50,Communication,2,0.6
+CV 50,Problem Solving,8,0.94
+CV 51,Leadership,4,0.91
+CV 51,Innovation,4,0.68
+CV 51,Teamwork,6,0.58
+CV 51,Communication,2,0.8
+CV 51,Problem Solving,9,0.78
+CV 52,Leadership,8,0.45
+CV 52,Innovation,6,0.49
+CV 52,Teamwork,9,0.57
+CV 52,Communication,7,0.47
+CV 52,Problem Solving,8,0.6
+CV 53,Leadership,7,0.74
+CV 53,Innovation,9,0.87
+CV 53,Teamwork,5,0.74
+CV 53,Communication,6,0.71
+CV 53,Problem Solving,2,0.92
+CV 54,Leadership,10,0.78
+CV 54,Innovation,4,0.57
+CV 54,Teamwork,3,0.93
+CV 54,Communication,2,0.57
+CV 54,Problem Solving,9,0.88
+CV 55,Leadership,4,0.44
+CV 55,Innovation,9,0.61
+CV 55,Teamwork,7,0.93
+CV 55,Communication,2,0.47
+CV 55,Problem Solving,5,0.57
+CV 56,Leadership,1,0.81
+CV 56,Innovation,4,0.76
+CV 56,Teamwork,8,0.59
+CV 56,Communication,3,0.93
+CV 56,Problem Solving,10,0.9
+CV 57,Leadership,1,0.44
+CV 57,Innovation,2,0.59
+CV 57,Teamwork,7,0.76
+CV 57,Communication,6,0.97
+CV 57,Problem Solving,3,0.95
+CV 58,Leadership,3,0.86
+CV 58,Innovation,8,0.97
+CV 58,Teamwork,5,0.52
+CV 58,Communication,6,0.8
+CV 58,Problem Solving,9,0.74
+CV 59,Leadership,9,0.51
+CV 59,Innovation,1,0.46
+CV 59,Teamwork,5,0.99
+CV 59,Communication,10,0.52
+CV 59,Problem Solving,8,0.94
+CV 60,Leadership,6,0.67
+CV 60,Innovation,5,0.69
+CV 60,Teamwork,10,0.6
+CV 60,Communication,10,0.62
+CV 60,Problem Solving,8,0.71
+CV 61,Leadership,3,0.99
+CV 61,Innovation,9,0.53
+CV 61,Teamwork,1,0.94
+CV 61,Communication,6,0.56
+CV 61,Problem Solving,6,0.79
+CV 62,Leadership,3,0.84
+CV 62,Innovation,4,0.57
+CV 62,Teamwork,8,0.4
+CV 62,Communication,9,0.46
+CV 62,Problem Solving,9,0.68
+CV 63,Leadership,10,0.58
+CV 63,Innovation,7,0.62
+CV 63,Teamwork,9,0.41
+CV 63,Communication,1,0.71
+CV 63,Problem Solving,4,0.74
+CV 64,Leadership,9,0.44
+CV 64,Innovation,1,0.69
+CV 64,Teamwork,3,0.43
+CV 64,Communication,7,0.83
+CV 64,Problem Solving,8,0.69
+CV 65,Leadership,3,0.88
+CV 65,Innovation,3,0.78
+CV 65,Teamwork,6,0.98
+CV 65,Communication,7,0.6
+CV 65,Problem Solving,6,0.78
+CV 66,Leadership,4,0.46
+CV 66,Innovation,9,0.69
+CV 66,Teamwork,1,0.87
+CV 66,Communication,8,0.65
+CV 66,Problem Solving,1,0.77
+CV 67,Leadership,8,0.41
+CV 67,Innovation,5,0.6
+CV 67,Teamwork,9,0.73
+CV 67,Communication,9,0.6
+CV 67,Problem Solving,8,0.7
+CV 68,Leadership,8,0.52
+CV 68,Innovation,7,0.41
+CV 68,Teamwork,8,0.9
+CV 68,Communication,10,0.98
+CV 68,Problem Solving,5,0.87
+CV 69,Leadership,5,0.91
+CV 69,Innovation,5,1.0
+CV 69,Teamwork,9,0.76
+CV 69,Communication,8,0.78
+CV 69,Problem Solving,6,0.49
+CV 70,Leadership,5,0.61
+CV 70,Innovation,5,0.4
+CV 70,Teamwork,3,0.5
+CV 70,Communication,7,0.98
+CV 70,Problem Solving,6,0.53
+CV 71,Leadership,7,0.93
+CV 71,Innovation,5,0.75
+CV 71,Teamwork,9,0.9
+CV 71,Communication,3,0.75
+CV 71,Problem Solving,8,0.54
+CV 72,Leadership,5,0.94
+CV 72,Innovation,10,0.61
+CV 72,Teamwork,1,0.71
+CV 72,Communication,6,0.59
+CV 72,Problem Solving,1,0.61
+CV 73,Leadership,3,0.62
+CV 73,Innovation,10,0.81
+CV 73,Teamwork,2,0.67
+CV 73,Communication,3,0.6
+CV 73,Problem Solving,9,0.84
+CV 74,Leadership,3,0.75
+CV 74,Innovation,4,0.45
+CV 74,Teamwork,7,0.82
+CV 74,Communication,1,0.41
+CV 74,Problem Solving,6,0.54
+CV 75,Leadership,1,0.77
+CV 75,Innovation,10,0.92
+CV 75,Teamwork,7,0.78
+CV 75,Communication,7,0.41
+CV 75,Problem Solving,9,0.76
+CV 76,Leadership,6,0.94
+CV 76,Innovation,8,0.53
+CV 76,Teamwork,8,0.96
+CV 76,Communication,7,0.99
+CV 76,Problem Solving,1,0.59
+CV 77,Leadership,10,0.77
+CV 77,Innovation,3,0.59
+CV 77,Teamwork,2,0.56
+CV 77,Communication,6,0.81
+CV 77,Problem Solving,6,0.42
+CV 78,Leadership,7,0.49
+CV 78,Innovation,6,0.47
+CV 78,Teamwork,8,0.58
+CV 78,Communication,7,0.67
+CV 78,Problem Solving,2,0.62
+CV 79,Leadership,4,0.99
+CV 79,Innovation,9,0.59
+CV 79,Teamwork,2,0.63
+CV 79,Communication,6,0.41
+CV 79,Problem Solving,10,0.58
+CV 80,Leadership,1,0.55
+CV 80,Innovation,2,0.43
+CV 80,Teamwork,9,0.86
+CV 80,Communication,9,0.76
+CV 80,Problem Solving,10,0.77
+CV 81,Leadership,9,0.76
+CV 81,Innovation,5,0.5
+CV 81,Teamwork,5,0.72
+CV 81,Communication,1,0.55
+CV 81,Problem Solving,2,0.65
+CV 82,Leadership,6,0.86
+CV 82,Innovation,7,0.96
+CV 82,Teamwork,10,0.88
+CV 82,Communication,8,0.85
+CV 82,Problem Solving,7,0.89
+CV 83,Leadership,8,0.66
+CV 83,Innovation,10,0.59
+CV 83,Teamwork,6,0.4
+CV 83,Communication,6,0.87
+CV 83,Problem Solving,9,0.77
+CV 84,Leadership,4,0.5
+CV 84,Innovation,9,0.62
+CV 84,Teamwork,5,0.42
+CV 84,Communication,9,0.78
+CV 84,Problem Solving,10,0.52
+CV 85,Leadership,2,0.6
+CV 85,Innovation,10,0.51
+CV 85,Teamwork,1,0.96
+CV 85,Communication,10,0.72
+CV 85,Problem Solving,9,0.58
+CV 86,Leadership,2,0.88
+CV 86,Innovation,7,0.55
+CV 86,Teamwork,8,0.98
+CV 86,Communication,10,0.93
+CV 86,Problem Solving,2,0.86
+CV 87,Leadership,3,0.48
+CV 87,Innovation,9,0.78
+CV 87,Teamwork,9,0.68
+CV 87,Communication,4,0.81
+CV 87,Problem Solving,4,0.97
+CV 88,Leadership,2,0.77
+CV 88,Innovation,2,1.0
+CV 88,Teamwork,4,0.77
+CV 88,Communication,3,0.72
+CV 88,Problem Solving,5,0.64
+CV 89,Leadership,6,0.74
+CV 89,Innovation,10,0.51
+CV 89,Teamwork,10,0.47
+CV 89,Communication,7,0.48
+CV 89,Problem Solving,2,0.58
+CV 90,Leadership,10,0.46
+CV 90,Innovation,6,0.78
+CV 90,Teamwork,2,0.81
+CV 90,Communication,8,0.81
+CV 90,Problem Solving,1,0.7
+CV 91,Leadership,10,0.54
+CV 91,Innovation,9,0.43
+CV 91,Teamwork,6,0.57
+CV 91,Communication,1,0.51
+CV 91,Problem Solving,9,0.96
+CV 92,Leadership,4,0.71
+CV 92,Innovation,2,0.85
+CV 92,Teamwork,6,0.41
+CV 92,Communication,3,0.48
+CV 92,Problem Solving,10,0.49
+CV 93,Leadership,3,0.95
+CV 93,Innovation,4,0.81
+CV 93,Teamwork,4,0.59
+CV 93,Communication,6,0.98
+CV 93,Problem Solving,5,0.51
+CV 94,Leadership,1,0.48
+CV 94,Innovation,5,0.93
+CV 94,Teamwork,9,0.93
+CV 94,Communication,1,0.95
+CV 94,Problem Solving,2,0.71
+CV 95,Leadership,7,0.46
+CV 95,Innovation,8,0.43
+CV 95,Teamwork,2,0.72
+CV 95,Communication,4,0.62
+CV 95,Problem Solving,4,0.86
+CV 96,Leadership,4,0.46
+CV 96,Innovation,4,0.99
+CV 96,Teamwork,8,0.6
+CV 96,Communication,7,0.77
+CV 96,Problem Solving,9,0.66
+CV 97,Leadership,7,0.48
+CV 97,Innovation,4,0.82
+CV 97,Teamwork,1,0.92
+CV 97,Communication,4,0.84
+CV 97,Problem Solving,2,0.92
+CV 98,Leadership,9,0.73
+CV 98,Innovation,4,0.53
+CV 98,Teamwork,10,0.67
+CV 98,Communication,2,0.94
+CV 98,Problem Solving,4,0.71
+CV 99,Leadership,9,0.48
+CV 99,Innovation,8,0.73
+CV 99,Teamwork,2,0.92
+CV 99,Communication,10,0.59
+CV 99,Problem Solving,9,0.45
+CV 100,Leadership,9,0.47
+CV 100,Innovation,10,0.68
+CV 100,Teamwork,8,0.43
+CV 100,Communication,7,0.54
+CV 100,Problem Solving,7,0.82
+CV 101,Leadership,5,0.81
+CV 101,Innovation,3,0.74
+CV 101,Teamwork,7,0.98
+CV 101,Communication,4,0.99
+CV 101,Problem Solving,3,0.98
+CV 102,Leadership,10,0.45
+CV 102,Innovation,2,0.89
+CV 102,Teamwork,5,0.73
+CV 102,Communication,10,0.41
+CV 102,Problem Solving,4,0.95
+CV 103,Leadership,1,0.61
+CV 103,Innovation,9,0.86
+CV 103,Teamwork,7,1.0
+CV 103,Communication,10,0.83
+CV 103,Problem Solving,10,0.49
+CV 104,Leadership,3,0.41
+CV 104,Innovation,6,0.62
+CV 104,Teamwork,8,0.48
+CV 104,Communication,5,0.46
+CV 104,Problem Solving,3,0.64
+CV 105,Leadership,8,0.95
+CV 105,Innovation,8,0.8
+CV 105,Teamwork,4,0.68
+CV 105,Communication,3,0.4
+CV 105,Problem Solving,7,0.46
+CV 106,Leadership,6,0.53
+CV 106,Innovation,3,0.42
+CV 106,Teamwork,10,0.76
+CV 106,Communication,6,0.65
+CV 106,Problem Solving,5,0.75
+CV 107,Leadership,10,0.93
+CV 107,Innovation,1,0.94
+CV 107,Teamwork,8,0.43
+CV 107,Communication,1,0.87
+CV 107,Problem Solving,3,0.48
+CV 108,Leadership,7,0.8
+CV 108,Innovation,1,0.66
+CV 108,Teamwork,10,0.55
+CV 108,Communication,6,0.87
+CV 108,Problem Solving,3,0.61
+CV 109,Leadership,4,0.61
+CV 109,Innovation,2,0.92
+CV 109,Teamwork,4,0.98
+CV 109,Communication,3,0.42
+CV 109,Problem Solving,8,0.42
+CV 110,Leadership,10,0.52
+CV 110,Innovation,9,0.91
+CV 110,Teamwork,9,0.75
+CV 110,Communication,3,0.71
+CV 110,Problem Solving,10,0.41
+CV 111,Leadership,9,0.63
+CV 111,Innovation,3,0.45
+CV 111,Teamwork,6,0.75
+CV 111,Communication,5,0.68
+CV 111,Problem Solving,10,0.55
+CV 112,Leadership,8,0.75
+CV 112,Innovation,3,0.7
+CV 112,Teamwork,6,0.51
+CV 112,Communication,3,0.95
+CV 112,Problem Solving,4,0.47
+CV 113,Leadership,5,0.79
+CV 113,Innovation,1,0.86
+CV 113,Teamwork,7,0.67
+CV 113,Communication,10,0.87
+CV 113,Problem Solving,5,0.57
+CV 114,Leadership,6,0.65
+CV 114,Innovation,4,0.72
+CV 114,Teamwork,8,0.72
+CV 114,Communication,2,0.95
+CV 114,Problem Solving,10,0.97
+CV 115,Leadership,2,0.79
+CV 115,Innovation,1,0.78
+CV 115,Teamwork,1,0.51
+CV 115,Communication,9,0.89
+CV 115,Problem Solving,4,0.66
+CV 116,Leadership,9,0.95
+CV 116,Innovation,2,0.97
+CV 116,Teamwork,3,0.96
+CV 116,Communication,10,0.52
+CV 116,Problem Solving,9,0.85
+CV 117,Leadership,8,0.91
+CV 117,Innovation,2,0.64
+CV 117,Teamwork,1,0.71
+CV 117,Communication,10,0.94
+CV 117,Problem Solving,5,0.51
+CV 118,Leadership,7,0.99
+CV 118,Innovation,7,0.51
+CV 118,Teamwork,1,0.4
+CV 118,Communication,6,0.89
+CV 118,Problem Solving,6,0.96
+CV 119,Leadership,6,0.65
+CV 119,Innovation,7,0.74
+CV 119,Teamwork,6,0.51
+CV 119,Communication,9,0.97
+CV 119,Problem Solving,9,0.97
+CV 120,Leadership,3,0.83
+CV 120,Innovation,6,0.86
+CV 120,Teamwork,5,0.88
+CV 120,Communication,3,0.49
+CV 120,Problem Solving,10,0.99
+CV 121,Leadership,7,0.68
+CV 121,Innovation,10,0.88
+CV 121,Teamwork,1,0.95
+CV 121,Communication,2,0.79
+CV 121,Problem Solving,6,0.64
+CV 122,Leadership,10,0.95
+CV 122,Innovation,8,0.56
+CV 122,Teamwork,4,0.93
+CV 122,Communication,7,0.5
+CV 122,Problem Solving,1,0.6
+CV 123,Leadership,7,0.49
+CV 123,Innovation,8,0.99
+CV 123,Teamwork,8,0.83
+CV 123,Communication,1,0.54
+CV 123,Problem Solving,7,0.61
+CV 124,Leadership,7,0.99
+CV 124,Innovation,2,0.75
+CV 124,Teamwork,8,0.94
+CV 124,Communication,3,0.46
+CV 124,Problem Solving,5,0.57
+CV 125,Leadership,9,0.58
+CV 125,Innovation,2,0.63
+CV 125,Teamwork,10,0.51
+CV 125,Communication,9,0.64
+CV 125,Problem Solving,8,0.71
+CV 126,Leadership,10,0.9
+CV 126,Innovation,7,0.8
+CV 126,Teamwork,10,0.41
+CV 126,Communication,10,0.73
+CV 126,Problem Solving,4,0.77
+CV 127,Leadership,4,0.56
+CV 127,Innovation,4,1.0
+CV 127,Teamwork,5,0.75
+CV 127,Communication,3,0.64
+CV 127,Problem Solving,10,0.71
+CV 128,Leadership,10,0.79
+CV 128,Innovation,8,0.52
+CV 128,Teamwork,6,0.66
+CV 128,Communication,2,0.95
+CV 128,Problem Solving,6,0.81
+CV 129,Leadership,5,0.84
+CV 129,Innovation,8,0.58
+CV 129,Teamwork,10,0.53
+CV 129,Communication,1,0.75
+CV 129,Problem Solving,5,0.95
+CV 130,Leadership,7,0.6
+CV 130,Innovation,9,0.69
+CV 130,Teamwork,7,1.0
+CV 130,Communication,9,0.84
+CV 130,Problem Solving,6,0.95
+CV 131,Leadership,9,0.76
+CV 131,Innovation,6,0.89
+CV 131,Teamwork,4,0.69
+CV 131,Communication,1,0.63
+CV 131,Problem Solving,1,0.48
+CV 132,Leadership,6,0.76
+CV 132,Innovation,3,0.87
+CV 132,Teamwork,1,0.55
+CV 132,Communication,7,0.89
+CV 132,Problem Solving,2,0.66
+CV 133,Leadership,4,0.62
+CV 133,Innovation,4,0.63
+CV 133,Teamwork,5,0.89
+CV 133,Communication,7,0.51
+CV 133,Problem Solving,5,0.65
+CV 134,Leadership,5,0.64
+CV 134,Innovation,8,0.53
+CV 134,Teamwork,8,0.58
+CV 134,Communication,5,0.54
+CV 134,Problem Solving,5,0.56
+CV 135,Leadership,6,0.41
+CV 135,Innovation,7,0.78
+CV 135,Teamwork,6,0.96
+CV 135,Communication,9,0.96
+CV 135,Problem Solving,2,0.51
+CV 136,Leadership,4,0.76
+CV 136,Innovation,2,0.92
+CV 136,Teamwork,4,0.55
+CV 136,Communication,4,0.74
+CV 136,Problem Solving,3,0.51
+CV 137,Leadership,4,0.56
+CV 137,Innovation,9,0.7
+CV 137,Teamwork,7,0.58
+CV 137,Communication,5,0.99
+CV 137,Problem Solving,10,0.85
+CV 138,Leadership,1,0.5
+CV 138,Innovation,7,0.61
+CV 138,Teamwork,3,0.78
+CV 138,Communication,5,0.46
+CV 138,Problem Solving,5,0.68
+CV 139,Leadership,4,0.71
+CV 139,Innovation,7,0.91
+CV 139,Teamwork,3,0.94
+CV 139,Communication,2,0.79
+CV 139,Problem Solving,6,0.73
+CV 140,Leadership,7,0.5
+CV 140,Innovation,10,0.45
+CV 140,Teamwork,8,0.79
+CV 140,Communication,10,0.88
+CV 140,Problem Solving,5,0.45
+CV 141,Leadership,1,0.54
+CV 141,Innovation,9,0.97
+CV 141,Teamwork,2,0.84
+CV 141,Communication,4,0.7
+CV 141,Problem Solving,6,0.44
+CV 142,Leadership,2,0.95
+CV 142,Innovation,8,0.91
+CV 142,Teamwork,9,0.57
+CV 142,Communication,2,0.66
+CV 142,Problem Solving,5,0.98
+CV 143,Leadership,2,0.9
+CV 143,Innovation,4,0.92
+CV 143,Teamwork,5,0.84
+CV 143,Communication,3,0.84
+CV 143,Problem Solving,2,0.86
+CV 144,Leadership,1,0.58
+CV 144,Innovation,7,0.97
+CV 144,Teamwork,1,0.52
+CV 144,Communication,3,0.54
+CV 144,Problem Solving,6,0.86
+CV 145,Leadership,4,0.99
+CV 145,Innovation,10,0.96
+CV 145,Teamwork,6,0.46
+CV 145,Communication,10,0.49
+CV 145,Problem Solving,7,0.87
+CV 146,Leadership,3,0.98
+CV 146,Innovation,8,0.71
+CV 146,Teamwork,1,0.44
+CV 146,Communication,1,0.46
+CV 146,Problem Solving,5,0.97
+CV 147,Leadership,3,0.67
+CV 147,Innovation,4,0.97
+CV 147,Teamwork,9,0.77
+CV 147,Communication,5,0.42
+CV 147,Problem Solving,1,0.91
+CV 148,Leadership,9,0.84
+CV 148,Innovation,5,0.97
+CV 148,Teamwork,2,0.77
+CV 148,Communication,1,0.72
+CV 148,Problem Solving,9,0.83
+CV 149,Leadership,2,0.46
+CV 149,Innovation,7,0.71
+CV 149,Teamwork,3,0.48
+CV 149,Communication,9,0.57
+CV 149,Problem Solving,5,0.72
+CV 150,Leadership,10,0.59
+CV 150,Innovation,4,0.48
+CV 150,Teamwork,2,0.44
+CV 150,Communication,2,0.75
+CV 150,Problem Solving,6,0.89
+CV 151,Leadership,8,0.44
+CV 151,Innovation,9,0.96
+CV 151,Teamwork,10,0.82
+CV 151,Communication,5,0.75
+CV 151,Problem Solving,1,0.89
+CV 152,Leadership,3,0.66
+CV 152,Innovation,4,0.63
+CV 152,Teamwork,4,0.5
+CV 152,Communication,4,0.71
+CV 152,Problem Solving,6,0.88
+CV 153,Leadership,5,0.87
+CV 153,Innovation,3,0.68
+CV 153,Teamwork,5,0.64
+CV 153,Communication,2,0.68
+CV 153,Problem Solving,8,0.88
+CV 154,Leadership,10,0.56
+CV 154,Innovation,5,0.82
+CV 154,Teamwork,4,0.6
+CV 154,Communication,3,0.84
+CV 154,Problem Solving,6,0.46
+CV 155,Leadership,8,0.95
+CV 155,Innovation,10,0.72
+CV 155,Teamwork,1,0.54
+CV 155,Communication,3,0.73
+CV 155,Problem Solving,5,0.55
+CV 156,Leadership,9,0.75
+CV 156,Innovation,3,0.95
+CV 156,Teamwork,7,0.67
+CV 156,Communication,2,0.59
+CV 156,Problem Solving,4,0.54
+CV 157,Leadership,2,0.57
+CV 157,Innovation,1,0.75
+CV 157,Teamwork,3,0.93
+CV 157,Communication,8,0.69
+CV 157,Problem Solving,6,0.78
+CV 158,Leadership,6,0.79
+CV 158,Innovation,9,0.45
+CV 158,Teamwork,8,0.43
+CV 158,Communication,3,0.99
+CV 158,Problem Solving,5,0.82
+CV 159,Leadership,3,0.67
+CV 159,Innovation,9,0.5
+CV 159,Teamwork,1,0.62
+CV 159,Communication,10,0.55
+CV 159,Problem Solving,3,0.8
+CV 160,Leadership,1,1.0
+CV 160,Innovation,8,0.42
+CV 160,Teamwork,4,0.78
+CV 160,Communication,3,0.57
+CV 160,Problem Solving,9,0.88
+CV 161,Leadership,3,0.72
+CV 161,Innovation,7,0.98
+CV 161,Teamwork,6,0.71
+CV 161,Communication,1,0.46
+CV 161,Problem Solving,3,0.97
+CV 162,Leadership,7,0.48
+CV 162,Innovation,10,0.49
+CV 162,Teamwork,9,0.59
+CV 162,Communication,4,0.84
+CV 162,Problem Solving,6,0.82
+CV 163,Leadership,8,0.99
+CV 163,Innovation,5,0.51
+CV 163,Teamwork,5,0.52
+CV 163,Communication,10,0.41
+CV 163,Problem Solving,9,0.71
+CV 164,Leadership,3,0.58
+CV 164,Innovation,6,0.6
+CV 164,Teamwork,4,0.64
+CV 164,Communication,4,0.71
+CV 164,Problem Solving,2,0.74
+CV 165,Leadership,5,0.72
+CV 165,Innovation,4,0.71
+CV 165,Teamwork,7,0.84
+CV 165,Communication,6,0.86
+CV 165,Problem Solving,10,0.42
+CV 166,Leadership,10,0.95
+CV 166,Innovation,4,0.54
+CV 166,Teamwork,8,0.81
+CV 166,Communication,10,0.7
+CV 166,Problem Solving,8,0.7
+CV 167,Leadership,10,0.64
+CV 167,Innovation,3,0.69
+CV 167,Teamwork,10,0.67
+CV 167,Communication,7,0.81
+CV 167,Problem Solving,5,0.64
+CV 168,Leadership,2,0.87
+CV 168,Innovation,9,0.74
+CV 168,Teamwork,6,0.66
+CV 168,Communication,8,0.46
+CV 168,Problem Solving,5,0.65
+CV 169,Leadership,4,0.93
+CV 169,Innovation,8,0.57
+CV 169,Teamwork,1,0.8
+CV 169,Communication,10,0.64
+CV 169,Problem Solving,10,0.58
+CV 170,Leadership,2,0.92
+CV 170,Innovation,6,0.86
+CV 170,Teamwork,8,0.78
+CV 170,Communication,1,0.59
+CV 170,Problem Solving,8,0.92
+CV 171,Leadership,4,0.47
+CV 171,Innovation,1,0.48
+CV 171,Teamwork,5,0.8
+CV 171,Communication,3,0.77
+CV 171,Problem Solving,8,0.68
+CV 172,Leadership,4,0.78
+CV 172,Innovation,8,0.49
+CV 172,Teamwork,8,0.64
+CV 172,Communication,10,0.41
+CV 172,Problem Solving,6,0.88
+CV 173,Leadership,7,0.95
+CV 173,Innovation,7,0.87
+CV 173,Teamwork,5,0.98
+CV 173,Communication,5,0.91
+CV 173,Problem Solving,9,0.84
+CV 174,Leadership,1,0.66
+CV 174,Innovation,6,0.78
+CV 174,Teamwork,2,0.7
+CV 174,Communication,1,0.78
+CV 174,Problem Solving,4,0.42
+CV 175,Leadership,9,0.48
+CV 175,Innovation,6,0.99
+CV 175,Teamwork,6,0.95
+CV 175,Communication,6,0.7
+CV 175,Problem Solving,6,0.71
+CV 176,Leadership,5,0.43
+CV 176,Innovation,8,0.53
+CV 176,Teamwork,6,0.82
+CV 176,Communication,4,0.56
+CV 176,Problem Solving,7,0.99
+CV 177,Leadership,1,0.92
+CV 177,Innovation,9,0.56
+CV 177,Teamwork,2,0.79
+CV 177,Communication,7,0.77
+CV 177,Problem Solving,4,0.76
+CV 178,Leadership,4,0.99
+CV 178,Innovation,4,0.81
+CV 178,Teamwork,6,0.99
+CV 178,Communication,10,0.76
+CV 178,Problem Solving,9,0.98
+CV 179,Leadership,2,0.91
+CV 179,Innovation,10,0.43
+CV 179,Teamwork,1,0.44
+CV 179,Communication,4,0.83
+CV 179,Problem Solving,1,0.59
+CV 180,Leadership,7,0.77
+CV 180,Innovation,7,0.5
+CV 180,Teamwork,10,0.96
+CV 180,Communication,9,0.86
+CV 180,Problem Solving,4,0.55
+CV 181,Leadership,10,0.51
+CV 181,Innovation,2,0.51
+CV 181,Teamwork,10,0.52
+CV 181,Communication,1,0.49
+CV 181,Problem Solving,5,0.82
+CV 182,Leadership,4,0.43
+CV 182,Innovation,9,0.63
+CV 182,Teamwork,2,0.5
+CV 182,Communication,9,0.94
+CV 182,Problem Solving,10,0.5
+CV 183,Leadership,10,0.75
+CV 183,Innovation,2,0.46
+CV 183,Teamwork,4,0.81
+CV 183,Communication,3,0.78
+CV 183,Problem Solving,9,0.79
+CV 184,Leadership,3,0.67
+CV 184,Innovation,3,0.84
+CV 184,Teamwork,9,0.58
+CV 184,Communication,5,0.64
+CV 184,Problem Solving,7,0.54
+CV 185,Leadership,6,0.58
+CV 185,Innovation,7,0.68
+CV 185,Teamwork,6,0.91
+CV 185,Communication,7,0.75
+CV 185,Problem Solving,6,0.64
+CV 186,Leadership,4,0.74
+CV 186,Innovation,9,0.74
+CV 186,Teamwork,1,0.5
+CV 186,Communication,7,0.7
+CV 186,Problem Solving,4,0.43
+CV 187,Leadership,10,0.6
+CV 187,Innovation,10,0.87
+CV 187,Teamwork,1,0.49
+CV 187,Communication,6,0.67
+CV 187,Problem Solving,8,0.69
+CV 188,Leadership,1,0.79
+CV 188,Innovation,2,0.95
+CV 188,Teamwork,3,0.75
+CV 188,Communication,1,0.89
+CV 188,Problem Solving,7,0.82
+CV 189,Leadership,10,0.71
+CV 189,Innovation,7,0.55
+CV 189,Teamwork,4,0.48
+CV 189,Communication,10,0.74
+CV 189,Problem Solving,1,0.82
+CV 190,Leadership,6,0.98
+CV 190,Innovation,7,0.78
+CV 190,Teamwork,9,0.91
+CV 190,Communication,4,0.94
+CV 190,Problem Solving,7,0.81
+CV 191,Leadership,10,0.86
+CV 191,Innovation,3,0.96
+CV 191,Teamwork,7,0.83
+CV 191,Communication,8,0.45
+CV 191,Problem Solving,1,0.85
+CV 192,Leadership,8,0.84
+CV 192,Innovation,1,0.55
+CV 192,Teamwork,6,0.5
+CV 192,Communication,1,0.45
+CV 192,Problem Solving,5,0.68
+CV 193,Leadership,10,0.84
+CV 193,Innovation,6,0.9
+CV 193,Teamwork,9,0.71
+CV 193,Communication,6,0.79
+CV 193,Problem Solving,6,0.43
+CV 194,Leadership,3,0.49
+CV 194,Innovation,6,0.87
+CV 194,Teamwork,1,0.72
+CV 194,Communication,5,0.82
+CV 194,Problem Solving,4,0.91
+CV 195,Leadership,9,0.76
+CV 195,Innovation,10,0.62
+CV 195,Teamwork,5,0.98
+CV 195,Communication,9,0.94
+CV 195,Problem Solving,6,0.43
+CV 196,Leadership,1,0.68
+CV 196,Innovation,1,0.47
+CV 196,Teamwork,8,0.9
+CV 196,Communication,3,0.69
+CV 196,Problem Solving,1,0.45
+CV 197,Leadership,7,0.7
+CV 197,Innovation,10,0.68
+CV 197,Teamwork,6,0.92
+CV 197,Communication,3,0.88
+CV 197,Problem Solving,8,0.86
+CV 198,Leadership,3,0.91
+CV 198,Innovation,10,0.99
+CV 198,Teamwork,3,0.87
+CV 198,Communication,1,0.94
+CV 198,Problem Solving,8,0.65
+CV 199,Leadership,3,0.52
+CV 199,Innovation,5,0.58
+CV 199,Teamwork,6,0.53
+CV 199,Communication,3,0.86
+CV 199,Problem Solving,8,0.7
+CV 200,Leadership,6,0.89
+CV 200,Innovation,10,0.88
+CV 200,Teamwork,5,0.45
+CV 200,Communication,9,0.96
+CV 200,Problem Solving,8,0.79
